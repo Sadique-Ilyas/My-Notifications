@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Notifications</string>
+
+    <string name="big_text_style_notification">
+        Hello Guys.\n
+        How Are You?\n
+        I Am Fine.\n
+        This is Big Text Style Notification.\n
+        Thanks For Your Time.\n
+        Take Care.\n
+        See You Later.\n
+        Bye
+    </string>
+
+    <string name="expanded_notification">
+        Hello Guys.\n
+        How Are You?\n
+        I Am Fine.\n
+        This Is  Me, SADIQUE ILYAS.\n
+        Thanks For Your Time.\n
+        Take Care.\n
+        See You Later.\n
+        Bye
+    </string>
+
+</resources>
